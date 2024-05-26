@@ -1,6 +1,7 @@
-By reading the README file of the CBF-github-fundamentals repository, I have learnt the following, among others:-
+By reading the **README** file of the CBF-github-fundamentals repository, I have learnt the following, among others:-
 
 What is Git and what Git can be used for
+
 The meaning of the term **repository**, 
 
 Creating a repository, cloning a repository,
@@ -35,7 +36,7 @@ How to **"follow"** other people on git hub and **starring** repositories in ord
 [Following People](https://docs.github.com/en/get-started/exploring-projects-on-github/following-people).
 
 How to find find new projects, events, and developers to interact with by using  github.com/explore
-
-#**Areas that I am still confused about**
+ 
+# **Areas that I am still confused about**
 
 I am still confused about **"Issues"** and will need to practice more on these.
