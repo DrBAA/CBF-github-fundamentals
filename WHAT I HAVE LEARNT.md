@@ -6,7 +6,7 @@ What is Git and what Git can be used for
 
 The meaning of the term **repository**, 
 
-Creating a repository, cloning a repository,
+Creating a repository, **cloning** a repository,
 
 Upstream repo and downstream repo,
 
@@ -14,9 +14,9 @@ Committing and pushing as the way to add changes you made on the local machine t
 
 **Branches** and purpose of branches
 
-Copying a repository by **forking** or **cloning"
+Copying a repository by **forking** or **cloning**.
 
-["Forking a repository"](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).which allows to copy someone's repo and make changes to that repo without affecting the original.
+["Forking a repository"]https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) which allows to copy someone's repo and make changes to that repo without affecting the original.
 
 Making [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) - when you want to tell others about the changes you want to make on the main branch of the remote repository and ask for their review/feedback before you make those changes.
 
@@ -37,9 +37,9 @@ Using [Markdown](https://docs.github.com/en/get-started/writing-on-github/gettin
 
 How to ["follow people"](https://docs.github.com/en/get-started/exploring-projects-on-github/following-people) on git hub in order to receive notifications about their public GitHub activities and discover new projects.
 
-**Starring** repositories in order to make it easier to find a repository or topic again later. 
+[**Starring**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) repositories in order to make it easier to find a repository or topic again later. 
 
-How to find find new projects, events, and developers to interact with by using [github.com/explore](github.com/explore).
+How to find new projects, events, and developers to interact with by using [github.com/explore](github.com/explore).
  
 ## **Areas that I am still confused about**
 
