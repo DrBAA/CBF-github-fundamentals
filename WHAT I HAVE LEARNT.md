@@ -1,4 +1,5 @@
-By reading this readme file, I have learnt the following, among others:-
+By reading the README file of the CBF-github-fundamentals repository, I have learnt the following, among others:-
+
 What is Git and what Git can be used for
 The meaning of the term **repository**, 
 Creating a repository, cloning a repository, archiving a repository,
