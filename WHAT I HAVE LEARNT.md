@@ -39,6 +39,6 @@ How to **"follow"** other people on git hub and **starring** repositories in ord
 
 How to find find new projects, events, and developers to interact with by using  github.com/explore
  
-### **Areas that I am still confused about**
+## **Areas that I am still confused about**
 
-I am still confused about **"Issues"** and will need to practice more on these.
+I am still confused about [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and will need to read and practice more on this area.
