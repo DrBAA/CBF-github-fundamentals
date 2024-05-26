@@ -37,10 +37,22 @@ Using [Markdown](https://docs.github.com/en/get-started/writing-on-github/gettin
 
 How to ["follow people"](https://docs.github.com/en/get-started/exploring-projects-on-github/following-people) on git hub in order to receive notifications about their public GitHub activities and discover new projects.
 
-[**Starring**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) repositories in order to make it easier to find a repository or topic again later. 
+[**How to star**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) repositories in order to make it easier to find a repository or topic again later. 
+
 
 How to find new projects, events, and developers to interact with by using [github.com/explore](github.com/explore).
- 
-## **Areas that I am still confused about**
 
-I am still confused about [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and will need to read and practice more on this area.
+## **What I have been able to do after reading the README file**
+
+-. I have been able to
+ -. fork the CBF-github-fundamentals repository into my own github account
+ -. add my own profile README.
+ -. create this markdown file, adding some styling and URL links as shown within this file.
+ -. star the CBF-github-fundamentals repository
+ -. find repositores that I have starred 
+ 
+## **Areas that I am still confused about or still need to cover**
+
+-. I am still confused about [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and will need to read and practice more on this area.
+
+-. I still need to do pull requests
