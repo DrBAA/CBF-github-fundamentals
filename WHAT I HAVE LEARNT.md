@@ -30,14 +30,15 @@ Staying updated with other people's activities through the new feed by using the
 
 Finding recommended repositories by using the **"Explore repositories"** section on the right side of my dashboard,
 
-My **profile README** which can tell people more about myself.
+How to add my **profile README** which can tell people more about myself.
 
 Using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on Git Hub to add some styling to my issues, pull requests, and files.
 
-How to **"follow"** other people on git hub and **starring** repositories in order to keep track of it. To learn more about how to follow people, go to
-[Following People](https://docs.github.com/en/get-started/exploring-projects-on-github/following-people).
+How to ["follow people"](https://docs.github.com/en/get-started/exploring-projects-on-github/following-people) on git hub in order to receive notifications about their public GitHub activities and discover new projects.
 
-How to find find new projects, events, and developers to interact with by using  github.com/explore
+**Starring** repositories in order to make it easier to find a repository or topic again later. 
+
+How to find find new projects, events, and developers to interact with by using [github.com/explore](github.com/explore).
  
 ## **Areas that I am still confused about**
 
