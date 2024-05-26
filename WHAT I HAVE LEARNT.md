@@ -16,8 +16,7 @@ Committing and pushing as the way to add changes you made on the local machine t
 
 Copying a repository by **forking** or **cloning"
 
-**Forking a repository** which allows to copy someone's repo and make changes to that repo without affecting the original. Click here 
-to [Fork a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+["Forking a repository"](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).which allows to copy someone's repo and make changes to that repo without affecting the original.
 
 Making [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) - when you want to tell others about the changes you want to make on the main branch of the remote repository and ask for their review/feedback before you make those changes.
 
@@ -30,7 +29,9 @@ Staying updated with other people's activities through the new feed by using the
 
 Finding recommended repositories by using the **"Explore repositories"** section on the right side of my dashboard,
 
-How to add my **profile README** which can tell people more about myself.
+How to **add** [**my profile README**](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#prerequisites) which can tell people more about myself.
+
+How to **remove my profile README**.
 
 Using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on Git Hub to add some styling to my issues, pull requests, and files.
 
