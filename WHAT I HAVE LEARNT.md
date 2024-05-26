@@ -16,7 +16,7 @@ Committing and pushing as the way to add changes you made on the local machine t
 
 Copying a repository by **forking** or **cloning**.
 
-[**Forking a repository**]https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) which allows to copy someone's repo and make changes to that repo without affecting the original.
+[**Forking a repository**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) which allows to copy someone's repo and make changes to that repo without affecting the original.
 
 Making [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) - when you want to tell others about the changes you want to make on the main branch of the remote repository and ask for their review/feedback before you make those changes.
 
