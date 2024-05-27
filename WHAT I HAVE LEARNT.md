@@ -18,9 +18,12 @@ Copying a repository by **forking** or **cloning**.
 
 [**Forking a repository**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) which allows to copy someone's repo and make changes to that repo without affecting the original.
 
-Making [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) - when you want to tell others about the changes you want to make on the main branch of the remote repository and ask for their review/feedback before you make those changes.
+Taht you can [**make pull requests**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) - when you want to tell others about the changes you want to make on the main branch of the remote repository and ask for their review/feedback before you make those changes.
+
+That you can raise [**issues**](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) 
 
 **Git dashboard** which helps to easily navigate to my repositories and see useful information about them.
+
 Finding my **recent activity* on Git Hub from the Git dashboard
 
 Finding my **top 10 repositories** I have interracted with - from the Git dashboard
@@ -31,14 +34,13 @@ Finding recommended repositories by using the **"Explore repositories"** section
 
 How to **add** [**my profile README**](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#prerequisites) which can tell people more about myself.
 
-How to **remove my profile README**.
+How to **remove my profile README** by changing the repo to private.
 
 Using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on Git Hub to add some styling to my issues, pull requests, and files.
 
 How to ["follow people"](https://docs.github.com/en/get-started/exploring-projects-on-github/following-people) on git hub in order to receive notifications about their public GitHub activities and discover new projects.
 
 [**How to star**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) repositories in order to make it easier to find a repository or topic again later. 
-
 
 How to find new projects, events, and developers to interact with by using [github.com/explore](github.com/explore).
 
@@ -48,11 +50,11 @@ How to find new projects, events, and developers to interact with by using [gith
  -. fork the CBF-github-fundamentals repository into my own github account
  -. add my own profile README.
  -. create this markdown file, adding some styling and URL links as shown within this file.
- -. star the CBF-github-fundamentals repository
+ -. add a star to the CBF-github-fundamentals repository
  -. find repositores that I have starred 
  
 ## **Areas that I am still confused about or still need to cover**
 
--. I am still confused about [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and will need to read and practice more on this area.
+-. I am still confused about issues and pull requests. I will need to read and practice more on this area.
 
--. I still need to do pull requests
+
